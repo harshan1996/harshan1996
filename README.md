@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/alankrith-g-0277b110a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alankrith g" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/14722381/alankrith-g?tab=topactivity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14722381" height="30" width="40" /></a> -->
 <a href="https://www.facebook.com/Alankrith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@Alankrith" height="30" width="40" /></a>
-<a href="https://medium.com/@Alankrith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Alankrith" height="30" width="40" /></a>
+<!--<a href="https://medium.com/@Alankrith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Alankrith" height="30" width="40" /></a>-->
 </p>
 <hr>
 
