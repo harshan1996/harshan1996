@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshan1996&label=Profile%20views&color=0e75b6&style=flat" alt="harshan1996" /> </p>
 
-- 📫 How to reach me: **harshan.gandamalla@gmail.com**
+- 📫 Email : **harshan.gandamalla@gmail.com**
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left" style= "color:red">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alankrith-g-0277b110a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alankrith g" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/14722381/alankrith-g?tab=topactivity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14722381" height="30" width="40" /></a> -->
